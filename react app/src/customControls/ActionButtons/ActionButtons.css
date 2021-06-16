@@ -1,0 +1,33 @@
+.editButton {
+  color: #4caf50;
+}
+
+.editButton:hover {
+  background-color: #4caf50;
+  color: white;
+}
+
+.addButton {
+  color: green;
+}
+
+.addButton:hover {
+  background-color: green;
+  color: white;
+}
+.previewButton {
+  color: #2194e0;
+}
+
+.previewButton:hover {
+  background-color: #2194e0;
+  color: white;
+}
+.deleteButton {
+  color: red;
+}
+
+.deleteButton:hover {
+  background-color: red;
+  color: white;
+}
